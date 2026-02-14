@@ -41,7 +41,3 @@ El sistema sigue un flujo secuencial optimizado para compensar la inercia mecán
 
 ---
 **Contacto:** Victoria Bello | Veracruz, México.
----
-
-## Sobre el Proyecto
-Este trabajo es parte de mi tesis final de grado en Ingeniería Mecatrónica. Actualmente, el proyecto se encuentra en fase de pruebas avanzadas para mi estancia de prácticas profesionales en la **Universidad Iberoamerica
