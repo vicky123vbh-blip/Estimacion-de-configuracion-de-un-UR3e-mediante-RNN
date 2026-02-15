@@ -11,7 +11,7 @@ Esta implementación demuestra el uso de una Red Neuronal Recurrente (RNN) para 
 [![Implementación UR3e mediante RNN](https://img.youtube.com/vi/k7_GCkqmnfQ/maxresdefault.jpg)](https://youtube.com/shorts/k7_GCkqmnfQ)
 
 > **Figura 1:** Validación de trayectoria del brazo colaborativo UR3e. Haga clic en la imagen superior para visualizar el video de la implementación real.
-https://github.com/user-attachments/assets/5b5450ab-2076-489d-b83c-c5794f0962af
+
 ---
 
 ## Características del Proyecto
