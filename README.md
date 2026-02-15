@@ -8,16 +8,9 @@ Este repositorio contiene la implementación de una **Red Neuronal Recurrente (R
 ## Demostración de Resultados
 Esta implementación demuestra el uso de una Red Neuronal Recurrente (RNN) para el control de un robot UR3e. El video captura la persistencia del movimiento, validando que el modelo predice coordenadas precisas y fluidas, evitando las singularidades mecánicas del manipulador de 6 GDL.
 
-<p align="center">
-  <video width="100%" height="auto" controls autoplay loop muted playsinline>
-    <source src="
+[![Implementación UR3e mediante RNN](https://img.youtube.com/vi/k7_GCkqmnfQ/maxresdefault.jpg)](https://youtube.com/shorts/k7_GCkqmnfQ)
 
-https://github.com/user-attachments/assets/5b5450ab-2076-489d-b83c-c5794f0962af
-
- " type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
-</p>
+> **Figura 1:** Validación de trayectoria del brazo colaborativo UR3e. Haga clic en la imagen superior para visualizar el video de la implementación real.
 https://github.com/user-attachments/assets/5b5450ab-2076-489d-b83c-c5794f0962af
 ---
 
