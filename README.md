@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/5b5450ab-2076-489d-b83c-c5794f0962af
     Tu navegador no soporta la reproducción de video.
   </video>
 </p>
+https://github.com/user-attachments/assets/5b5450ab-2076-489d-b83c-c5794f0962af
 ---
 
 ## Características del Proyecto
