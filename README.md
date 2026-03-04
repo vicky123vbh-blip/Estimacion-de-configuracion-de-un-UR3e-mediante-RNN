@@ -34,9 +34,9 @@ Esta implementación demuestra el uso de una Red Neuronal Recurrente (RNN) para 
 ---
 
 ## Estructura del Software
-1. **`/Inferencia`**: Scripts de Python que realizan el cálculo de movimiento en tiempo real.
-2. **`/Entrenamiento`**: Notebooks de Jupyter con el pre-procesamiento del dataset y el entrenamiento de la RNN.
-3. **`/Simulacion`**: Archivos de estación de **RoboDK** para validación cinemática.
+1. **Inferencia`**: Scripts de Python que realizan el cálculo de movimiento en tiempo real.
+2. **Entrenamiento`**: Notebooks de Jupyter con el pre-procesamiento del dataset y el entrenamiento de la RNN.
+3. **Simulacion`**: Archivos de estación de **RoboDK** para validación cinemática.
 
 ---
 
