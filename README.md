@@ -47,6 +47,5 @@ El sistema sigue un flujo secuencial optimizado para compensar la inercia mecán
 3. **Sincronización:** Pausas estratégicas (`time.sleep`) para asegurar la estabilidad del gripper.
 
 ---
-**Contacto:** Victoria Bello | Veracruz, México.
+**Contacto:** bhvv093@gmail.com
 
-Contacto: bhvv093@gmail.com
