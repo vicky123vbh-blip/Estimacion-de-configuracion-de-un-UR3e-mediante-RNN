@@ -6,12 +6,14 @@ Este repositorio contiene la implementación de una **Red Neuronal Recurrente (R
 ---
 
 ## Demostración de Resultados
-
+En este video se demuestra la capacidad de la RNN para ejecutar una trayectoria de precisión: el traslado de 3 piezas (Megablocks) desde una posición inicial a una zona de descarga.
 [![Implementación UR3e mediante RNN](https://img.youtube.com/vi/eTvODeJ2aMA/maxresdefault.jpg)](https://youtu.be/eTvODeJ2aMA)
-> *Haz clic en la imagen superior para ver el video de la implementación real.*
+> **Video 1:** Traslado secuencial de 3 unidades. Se observa la precisión para el acoplamiento y la suavidad en las transiciones de los 6 grados de libertad.
 
-> **Video 1:** Validación de trayectoria del brazo colaborativo UR3e. Haga clic en la imagen superior para visualizar el video de la implementación real.
+Aspectos Técnicos Destacados:
+Gestión de Estados: La red no solo predice la posición del brazo, sino que mantiene la coherencia temporal para evitar sacudidas al momento de cerrar el gripper.
 
+Inferencia en Tiempo Real: Cálculo constante de la cinemática inversa para asegurar que el centro de la pinza coincida exactamente con los ejes de los bloques.
 
 Esta implementación demuestra el uso de una Red Neuronal Recurrente (RNN) para el control de un robot UR3e. El video captura la persistencia del movimiento, validando que el modelo predice coordenadas precisas y fluidas, evitando las singularidades mecánicas del manipulador de 6 GDL.
 
