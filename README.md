@@ -7,7 +7,8 @@ Este repositorio contiene la implementación de una **Red Neuronal Recurrente (R
 
 ## Demostración de Resultados
 
-[![Implementación UR3e mediante RNN](https://img.youtube.com/vi/k7_GCkqmnfQ/maxresdefault.jpg)](https://youtu.be/eTvODeJ2aMA?feature=shared)
+[![Implementación UR3e mediante RNN](https://img.youtube.com/vi/eTvODeJ2aMA/maxresdefault.jpg)](https://youtu.be/eTvODeJ2aMA)
+> *Haz clic en la imagen superior para ver el video de la implementación real.*
 
 > **Video 1:** Validación de trayectoria del brazo colaborativo UR3e. Haga clic en la imagen superior para visualizar el video de la implementación real.
 
