@@ -10,7 +10,7 @@ En este video se demuestra la capacidad de la RNN para ejecutar una trayectoria 
 [![Implementación UR3e mediante RNN](https://img.youtube.com/vi/eTvODeJ2aMA/maxresdefault.jpg)](https://youtu.be/eTvODeJ2aMA)
 > **Video 1:** Traslado secuencial de 3 unidades. Se observa la precisión para el acoplamiento y la suavidad en las transiciones de los 6 grados de libertad.
 
-Aspectos Técnicos Destacados:
+Aspectos Técnicos Destacados:.
 Gestión de Estados: La red no solo predice la posición del brazo, sino que mantiene la coherencia temporal para evitar sacudidas al momento de cerrar el gripper.
 
 Inferencia en Tiempo Real: Cálculo constante de la cinemática inversa para asegurar que el centro de la pinza coincida exactamente con los ejes de los bloques.
