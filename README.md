@@ -48,3 +48,5 @@ El sistema sigue un flujo secuencial optimizado para compensar la inercia mecán
 
 ---
 **Contacto:** Victoria Bello | Veracruz, México.
+
+E-MAIL:bhvv093@gmail.com
